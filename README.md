@@ -19,7 +19,7 @@ This project extracts all comments from a YouTube video and saves them to a CSV 
 1. **Clone the repository:**
 
     ```bash
-    git clone [<repository URL>](https://github.com/KevinAQM/cs50p_final_project.git)
+    git clone https://github.com/KevinAQM/cs50p_final_project.git
     cd cs50p_final_project
     ```
 
